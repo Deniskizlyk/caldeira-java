@@ -1,0 +1,2 @@
+public class exercio1 {
+}
