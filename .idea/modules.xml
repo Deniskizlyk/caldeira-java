@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/aula01/aula01.iml" filepath="$PROJECT_DIR$/aula01/aula01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/aula2/aula2.iml" filepath="$PROJECT_DIR$/aula2/aula2.iml" />
       <module fileurl="file://$PROJECT_DIR$/caldeira-java.iml" filepath="$PROJECT_DIR$/caldeira-java.iml" />
     </modules>
   </component>
